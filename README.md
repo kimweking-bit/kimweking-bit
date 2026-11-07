@@ -3,8 +3,8 @@
 <p><sub>AN EDITORIAL PROFILE · KIMWEKING-BIT</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kimweking-bit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4&label=Ken%20Kimwe&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=kimweking-bit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4&label=Ken%20Kimwe&mode=dark" width="100%" alt="Ken Kimwe cinematic profile scene" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kimweking-bit & theme=aurora & avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4 & label=Ken%20Kimwe & mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=kimweking-bit & theme=aurora & avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4 & label=Ken%20Kimwe & mode=dark" width="100%" alt="Ken Kimwe cinematic profile scene" />
 </picture>
 
 <picture>
@@ -14,7 +14,7 @@
 
 <p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>I build clean, modern web experiences with a strong focus on design and detail. Always learning and improving, with code that feels as good as it looks.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<p>I build clean, modern web experiences with a strong focus on design and detail. </p>
+
 
 <p><a href="https://github.com/kimweking-bit">GitHub</a></p>
 </div>
