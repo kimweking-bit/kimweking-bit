@@ -3,9 +3,10 @@
 <p><sub>AN EDITORIAL PROFILE · KIMWEKING-BIT</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kimweking-bit & theme=aurora & avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4 & label=Ken%20Kimwe & mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=kimweking-bit & theme=aurora & avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4 & label=Ken%20Kimwe & mode=dark" width="100%" alt="Ken Kimwe cinematic profile scene" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kimweking-bit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4&label=Ken%20Kimwe&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=kimweking-bit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4&label=Ken%20Kimwe&mode=dark" width="100%" alt="Ken Kimwe cinematic profile scene" />
 </picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=kimweking-bit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253973851%3Fu%3D7389c7423b085434a2680ddad6f646d612eb71b9%26v%3D4&label=Ken%20Kimwe&v=cinematic-hero-wordmark-1&mode=light" />
