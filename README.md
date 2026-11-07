@@ -13,7 +13,7 @@
 </picture>
 
 <p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>I build clean, modern web experiences with a strong focus on design and detail. Always learning and improving, with code that feels as good as it looks.</p>
+<p>I build clean, modern web experiences with a strong focus on design and detail. </p>
 
 <p><a href="https://github.com/kimweking-bit">GitHub</a></p>
 </div>
