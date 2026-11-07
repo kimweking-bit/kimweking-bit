@@ -13,6 +13,7 @@
 </picture>
 
 <p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>I build clean, modern web experiences with a strong focus on design and detail. Always learning and improving, with code that feels as good as it looks.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
 <p>I build clean, modern web experiences with a strong focus on design and detail. </p>
 
 <p><a href="https://github.com/kimweking-bit">GitHub</a></p>
@@ -22,7 +23,6 @@
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="58%" valign="top"><h2>The point of view</h2><blockquote>I build clean, modern web experiences with a strong focus on design and detail. Always learning and improving, with code that feels as good as it looks.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
 <td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · HTML</sub></p><p><strong>14</strong> repos<br /><strong>222</strong> contributions<br /><strong>14</strong> followers</p></td>
 </tr>
 </table>
